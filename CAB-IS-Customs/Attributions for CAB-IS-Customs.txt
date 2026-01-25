@@ -54,6 +54,7 @@ GenericLight4
 331Genlight2
 Coehorn
 BattleHammer
+Fer-de-Lance
 
 Transient74 and IonRaptor
 Models:

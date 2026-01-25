@@ -1,0 +1,91 @@
+{
+	"ID": "hardpointdatadef_ferdelance",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_ferdelance_leftarm_ac2_bh1",
+					"chrprfweap_ferdelance_leftarm_ac5_bh1",
+					"chrprfweap_ferdelance_leftarm_flamer_eh1",
+					"chrprfweap_ferdelance_leftarm_gauss_bh1",
+					"chrprfweap_ferdelance_leftarm_laser_eh1",
+					"chrprfweap_ferdelance_leftarm_mg_bh1",
+					"chrprfweap_ferdelance_leftarm_ppc_eh1",
+					"chrprfweap_ferdelance_leftarm_uac2_bh1"
+				],			
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_ferdelance_lefttorso_srm2_mh1"
+				],
+				[
+					"chrprfweap_ferdelance_lefttorso_flamer_eh2",
+					"chrprfweap_ferdelance_lefttorso_laser_eh2",
+					"chrprfweap_ferdelance_lefttorso_mg_bh2",
+					"chrprfweap_ferdelance_lefttorso_ppc_eh2"
+				]
+			],
+			"blanks": [
+			"chrprfweap_ferdelance_lefttorso_blank_mh1"		
+			],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_ferdelance_rightarm_ac2_bh1",
+					"chrprfweap_ferdelance_rightarm_ac5_bh1",
+					"chrprfweap_ferdelance_rightarm_flamer_eh1",
+					"chrprfweap_ferdelance_rightarm_gauss_bh1",
+					"chrprfweap_ferdelance_rightarm_laser_eh1",
+					"chrprfweap_ferdelance_rightarm_mg_bh1",
+					"chrprfweap_ferdelance_rightarm_ppc_eh1",
+					"chrprfweap_ferdelance_rightarm_uac2_bh1"
+				],			
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_ferdelance_righttorso_srm2_mh1"
+				],
+				[
+					"chrprfweap_ferdelance_righttorso_flamer_eh2",
+					"chrprfweap_ferdelance_righttorso_laser_eh2",
+					"chrprfweap_ferdelance_righttorso_mg_bh2",
+					"chrprfweap_ferdelance_righttorso_ppc_eh2"
+				]
+			],
+				"blanks": [
+			"chrprfweap_ferdelance_righttorso_blank_mh1"		
+				],
+				"mountingPoints": []
+			},
+		{
+			"location": "head",
+			"weapons": [
+				[
+					"chrprfweap_ferdelance_head_mg_bh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+			{
+				"location": "centertorso",
+				"weapons": [],
+				"blanks": [],
+				"mountingPoints": []
+			}
+		]
+
+	}
