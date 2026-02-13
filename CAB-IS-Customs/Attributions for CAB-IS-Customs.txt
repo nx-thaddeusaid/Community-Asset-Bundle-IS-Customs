@@ -27,6 +27,7 @@ Foxfire
 Junior
 Apollo
 Mite
+Broadside
 
 Transient74
 Models:
@@ -43,6 +44,7 @@ VF11 LAM
 Freedom
 Thunderstone
 Generic Superheavy 1-8
+Generic Superheavy 10
 Ettin
 Assassin 2
 Stiletto (StarDrive)

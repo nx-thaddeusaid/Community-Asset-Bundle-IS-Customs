@@ -1,0 +1,132 @@
+{
+	"ID": "hardpointdatadef_genericsh10",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_genericsh10_leftarm_ac10_bh1",
+					"chrprfweap_genericsh10_leftarm_gauss_bh1",
+					"chrprfweap_genericsh10_leftarm_lrm5_mh1",
+					"chrprfweap_genericsh10_leftarm_lrm10_mh1",
+					"chrprfweap_genericsh10_leftarm_uac5_bh1"
+				],
+				[
+					"chrprfweap_genericsh10_leftarm_laser_eh2",
+					"chrprfweap_genericsh10_leftarm_ppc_eh2"
+				],
+				[
+					"chrprfweap_genericsh10_leftarm_laser_eh3",
+					"chrprfweap_genericsh10_leftarm_ppc_eh3"
+				],		
+				[
+					"chrprfweap_genericsh10_leftarm_laser_eh4",
+					"chrprfweap_genericsh10_leftarm_ppc_eh4"
+				],		
+				[
+					"chrprfweap_genericsh10_leftarm_laser_eh5",
+					"chrprfweap_genericsh10_leftarm_ppc_eh5"
+				]			
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_genericsh10_lefttorso_ac10_bh1",
+					"chrprfweap_genericsh10_lefttorso_gauss_bh1",
+					"chrprfweap_genericsh10_lefttorso_lrm5_mh1",
+					"chrprfweap_genericsh10_lefttorso_lrm10_mh1",
+					"chrprfweap_genericsh10_lefttorso_lrm15_mh1",
+					"chrprfweap_genericsh10_lefttorso_lrm20_mh1",
+					"chrprfweap_genericsh10_lefttorso_railgun_bh1"
+				],
+				[
+					"chrprfweap_genericsh10_lefttorso_laser_eh2",
+					"chrprfweap_genericsh10_lefttorso_ppc_eh2",
+					"chrprfweap_genericsh10_lefttorso_srm2_mh2",
+					"chrprfweap_genericsh10_lefttorso_srm4_mh2",
+					"chrprfweap_genericsh10_lefttorso_lrm5_mh2",
+					"chrprfweap_genericsh10_lefttorso_lrm10_mh2"
+				],
+				[
+					"chrprfweap_genericsh10_lefttorso_laser_eh3",
+					"chrprfweap_genericsh10_lefttorso_ppc_eh3"
+				]
+			],
+			"blanks": [
+			],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_genericsh10_rightarm_ac10_bh1",
+					"chrprfweap_genericsh10_rightarm_gauss_bh1"
+				],
+				[
+					"chrprfweap_genericsh10_rightarm_laser_eh2",
+					"chrprfweap_genericsh10_rightarm_ppc_eh2"
+				],
+				[
+					"chrprfweap_genericsh10_rightarm_laser_eh3",
+					"chrprfweap_genericsh10_rightarm_ppc_eh3"
+				],		
+				[
+					"chrprfweap_genericsh10_rightarm_laser_eh4",
+					"chrprfweap_genericsh10_rightarm_ppc_eh4"
+				],		
+				[
+					"chrprfweap_genericsh10_rightarm_laser_eh5",
+					"chrprfweap_genericsh10_rightarm_ppc_eh5"
+				]			
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_genericsh10_righttorso_ac10_bh1",
+					"chrprfweap_genericsh10_righttorso_gauss_bh1",
+					"chrprfweap_genericsh10_righttorso_lrm5_mh1",
+					"chrprfweap_genericsh10_righttorso_lrm10_mh1",
+					"chrprfweap_genericsh10_righttorso_lrm15_mh1",
+					"chrprfweap_genericsh10_righttorso_lrm20_mh1",
+					"chrprfweap_genericsh10_righttorso_railgun_bh1"
+				],
+				[
+					"chrprfweap_genericsh10_righttorso_laser_eh2",
+					"chrprfweap_genericsh10_righttorso_ppc_eh2",
+					"chrprfweap_genericsh10_righttorso_srm2_mh2",
+					"chrprfweap_genericsh10_righttorso_srm4_mh2",
+					"chrprfweap_genericsh10_righttorso_lrm5_mh2",
+					"chrprfweap_genericsh10_righttorso_lrm10_mh2"
+				],
+				[
+					"chrprfweap_genericsh10_righttorso_laser_eh3",
+					"chrprfweap_genericsh10_righttorso_ppc_eh3"
+				]
+			],
+				"blanks": [	
+				],
+				"mountingPoints": []
+			},
+		{
+			"location": "head",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		},
+			{
+				"location": "centertorso",
+				"weapons": [],
+				"blanks": [],
+				"mountingPoints": []
+			}
+		]
+
+	}

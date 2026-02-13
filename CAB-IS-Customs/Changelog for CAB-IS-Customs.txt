@@ -2,6 +2,14 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+2.2
+
+Added Generic Superheavy 10
+
+2.1
+
+Added the Broadside
+
 2.0
 
 Added the Fer-de-Lance 
